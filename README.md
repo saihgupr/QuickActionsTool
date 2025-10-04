@@ -1,4 +1,4 @@
-# Quick Action Tool for macOS
+# Quick Actions Tool for macOS
 
 A simple AppleScript tool to configure macOS Quick Actions (Automator workflows) with proper file type associations and optionally move them from the Quick Actions submenu to the main context menu.
 
